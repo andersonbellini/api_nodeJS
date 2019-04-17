@@ -2,10 +2,12 @@
 
 CRUD - Usando API Simplificada
 
-Dependências utilizadas
-    "bcrypt": 
-    "body-parser":
-    "express"
-    "jsonwebtoken"
-    "mongoose": "
+# Dependências utilizadas
+bcrypt
+body-parser
+express
+jsonwebtoken
+mongoose
+
+Banco de dados NoSQL MongoDB
     
