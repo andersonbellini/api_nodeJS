@@ -1,2 +1,11 @@
-# api_nodeJS
-API usando express, JWT e criptoB
+# Nodejs API
+
+CRUD - Usando API Simplificada
+
+Dependências utilizadas
+    "bcrypt": 
+    "body-parser":
+    "express"
+    "jsonwebtoken"
+    "mongoose": "
+    
